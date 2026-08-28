@@ -111,3 +111,12 @@ rag-pipeline/
   but doesn't yet detect *new* files added to an existing index)
 - Add evaluation (retrieval recall@k, answer faithfulness) on a held-out query set
 - Swap in a hybrid (keyword + semantic) retriever for queries with exact terms/acronyms
+
+## Author
+
+**Name : Rohan Singh**
+**Github :** https://github.com/RohanSingh404
+**Linkedin :**  https://linkedin.com/in/rohansingh404
+
+---
+⭐ If you found this project useful, consider giving it a star!
