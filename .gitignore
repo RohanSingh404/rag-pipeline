@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# generated at runtime
+vector_store/
+data/pdfs/*
+!data/pdfs/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# os
+.DS_Store
